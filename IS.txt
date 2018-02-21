@@ -1,0 +1,68 @@
+The standard that gives definitions of testing terms is:	BS7925-1
+A standard for software testing terminology is:			BS 7925-1
+Which of the following is the component test standard?		BS7925-2
+Cause effect graphing is related to the standard		BS 7925/2
+
+
+
+##########TEST PLANNING AND CONTROL:###################
+
+@@TEST PLANNING:
+------------------
+During test planning we make sure that we understand goals and objective of the customers,stakeholders and the project and the risk.
+1.Determine the scope and risks and identify the objectives of testing
+2.Determine the test approach
+3.Implement the test policy and/or the test strategy
+4.Determine the required test resources
+5.Schedule test analysis and design tasks, test implementation, execution and evaluation
+6.Determine the exit criteria
+
+@@TEST CONTROL:
+-----------------
+It is an ongoing process where we compare the actual and expected progress.
+1.Measure and analyze the results of reviews and testing
+2.Monitor and document progress, test coverage and exit criteria
+3.Provide information on testing
+4.Initiate corrective actions
+5.Make decisions
+
+
+###########TEST ANALYSIS AND DESIGN:##############
+It is a activity where testing objectives are transformed into tangible test conditions and test design.
+(test designs and procedures)
+1.Review the test basis
+2.Identify test conditions based on analysis of test items, their specifications
+3.Design the tests
+4.Evaluate testability of the requirements and system.
+5.Design the test environment set-up and identify any required infrastructure and tools
+
+
+
+################TEST IMPLEMENTATION AND EXECUTION################
+During test implementation and execution we take the test condn and make them into test cases and testware and set up the environment.
+
+Implementation:
+1.Develop and prioritize our test cases.
+2.Creating test suites from the test cases for efficient test execution.
+3.Implement and verify the environment.
+
+
+####################EVALUATING EXIT CRITERIA AND REPORTING#########################
+Evaluating exit criteria is the activity where test execution is assessed against the defined objectives.
+1.Check test logs against the exit criteria specified in test planning
+2.Assess if more tests are needed or if the exit criteria specified should be changed
+3.Write a test summary report for stakeholders
+
+
+
+
+
+########################TEST CLOSURE ACTIVITIES###########################
+During test closure activities, we collect data from completed test activities to consolidate experience, including checking and filing testware, and analyzing facts and numbers.
+1.Check which planned deliverables we actually delivered and ensure all incident reports
+2.Finalize and archive testware
+3.Hand over testware to the maintenance organization
+4.Evaluate how the testing went and analyze lessons learned for future releases and projects
+
+
+
